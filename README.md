@@ -24,6 +24,8 @@ HTML, CSS, JS, node modules (express, pg, cors)
 
 04-24-2018 1:05pm - Connect client application to heroku user database
 
+04-26-2018 9:30am - Added .post and .put queries into server.js
+
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
